@@ -1,16 +1,15 @@
-## Hi there 👋
+## About me
+- Based in UK
+- Primarily code in Python
 
-<!--
-**itsregza/itsregza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Currently Working On
+- Dynamite AIO https://dynamitebot.com/ - Autocheckout bot with 30+ supported sites.
+- Restock and New item monitors for in demand Pokemon products.
+- Creating simple libraries to help people manage encryption across card processors.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Interests
+- Automation
+- Web Scraping
+- Monitoring Systems
+- APIs
+- Discord Apps
