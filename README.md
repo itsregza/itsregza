@@ -6,7 +6,7 @@
 - Dynamite AIO https://dynamitebot.com/ - Autocheckout bot with 35+ supported sites.
 - Free autoping tool for discord groups - https://pingster.org/
 - Scalping monitors ;)
-- Checkout and scraping tools
+- Autocheckout and scraping tools
   
 ## Interests
 - Automation
