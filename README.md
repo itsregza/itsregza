@@ -16,7 +16,7 @@
 
 ### CCencrypt
 
-Encrypt card details for Adyen, CyberSource and eWay checkouts with no browser or JS needed.
+Encrypt card details for Adyen, CyberSource, Stripe, Shopify and more!
 
 [![Repo](https://img.shields.io/badge/Repo-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/itsregza/CCencrypt)
 
