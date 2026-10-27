@@ -27,18 +27,18 @@ Encrypt card details for Adyen, CyberSource, Stripe, Shopify and more!
 
 Check for available user handles on Instagram.
 
-[![Repo](https://img.shields.io/badge/Repo-GitHub-181717?style=for-the-badge&logo=github)]([https://github.com/itsregza/CCencrypt](https://github.com/itsregza/Instagram-Username-Checker))
+[![Repo](https://img.shields.io/badge/Repo-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/itsregza/Instagram-Username-Checker)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### Aws Waf Solver 
+### AWS WAF Solver
 
-Uses Gemini + js vm to solve aws waf challenges. avg 1s solve time.
+Uses Gemini + JS VM to solve AWS WAF challenges. Avg 1s solve time.
 
-[![Repo](https://img.shields.io/badge/Repo-GitHub-181717?style=for-the-badge&logo=github)]([https://github.com/itsregza/CCencrypt]([https://github.com/itsregza/Instagram-Username-Checker](https://github.com/itsregza/aws-waf-solver)))
+[![Repo](https://img.shields.io/badge/Repo-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/itsregza/aws-waf-solver)
 </td>
 </tr>
 </table>
