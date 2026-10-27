@@ -1,6 +1,5 @@
-# Sam
 
-UK based developer building software, automation tools and other projects with Python.
+<h1 align="center">UK based developer building software, automation tools and other projects with Python. </h1>
 
 <p align="center">
   <a href="https://dynamitebot.com/"><img src="https://img.shields.io/badge/Dynamite_AIO-Visit_Website-7C3AED?style=for-the-badge" /></a>
@@ -9,9 +8,44 @@ UK based developer building software, automation tools and other projects with P
   <a href="https://whop.com/frontlinebot/"><img src="https://img.shields.io/badge/Frontline-Visit_Website-181717?style=for-the-badge" /></a>
 </p>
 
+## Opensource Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### CCencrypt
+
+Encrypt card details for Adyen, CyberSource and eWay checkouts with no browser or JS needed.
+
+[![Repo](https://img.shields.io/badge/Repo-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/itsregza/CCencrypt)
+
+</td>
+<td width="50%" valign="top">
+
+### Instagram Username Checker
+
+Check for available user handles on Instagram.
+
+[![Repo](https://img.shields.io/badge/Repo-GitHub-181717?style=for-the-badge&logo=github)]([https://github.com/itsregza/CCencrypt](https://github.com/itsregza/Instagram-Username-Checker))
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Aws Waf Solver 
+
+Uses Gemini + js vm to solve aws waf challenges. avg 1s solve time.
+
+[![Repo](https://img.shields.io/badge/Repo-GitHub-181717?style=for-the-badge&logo=github)]([https://github.com/itsregza/CCencrypt]([https://github.com/itsregza/Instagram-Username-Checker](https://github.com/itsregza/aws-waf-solver)))
+</td>
+</tr>
+</table>
+
 ---
 
-## Projects
+## Private Projects
 
 <table>
 <tr>
@@ -48,7 +82,7 @@ A guide for UK mountains. Multiple different maps and data.
 
 ### Frontline
 
-A queueing bot. Mass run online queues for tickets, pokemon etc. 
+Queuing automation. Mass run online queues for tickets, pokemon etc. 
 
 [![Website](https://img.shields.io/badge/Website-Frontline-181717?style=flat-square)](https://whop.com/frontlinebot/)
 
@@ -56,7 +90,7 @@ A queueing bot. Mass run online queues for tickets, pokemon etc.
 </tr>
 </table>
 
-## Tech
+## What i use?
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -65,5 +99,3 @@ A queueing bot. Mass run online queues for tickets, pokemon etc.
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
-
-Web scraping · APIs · Automation · Backend development</WritingBlock}
